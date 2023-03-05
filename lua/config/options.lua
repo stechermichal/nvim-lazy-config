@@ -10,3 +10,5 @@ opt.sidescrolloff = 8 -- Columns of context
 opt.spelllang = { "en" }
 
 opt.conceallevel = 0 -- Hide * markup for bold and italic when set to 3
+-- opt("n", "<S-j>", "4j", { desc = "Move down 4 lines" })
+-- opt("n", "<S-k>", "4k", { desc = "Move down 4 lines" })
