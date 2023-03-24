@@ -1,3 +1,4 @@
+-- K used to do something really dumb, so now it's disabled to not interfere with supercharged j/k
 return {
   {
     "neovim/nvim-lspconfig",
